@@ -94,7 +94,7 @@ A 15-part content series exploring how marketing, emotion, and perception influe
 
 ---
 
-##  Currently Learning
+## 🌱 Currently Learning
 
 - Advanced SEO strategies
 - Data-driven marketing techniques
